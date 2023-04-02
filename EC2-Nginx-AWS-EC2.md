@@ -1,8 +1,8 @@
 ---
 title: Deploy an EC2 Nginx Web Server on AWS using Terraform
 subtitle: Deploy an EC2 Nginx Web Server on AWS using Terraform
-slug: deploy-ec2-nginx-webserver-using-terraform
-tags: aws, terraform, devops, cloud, automation
+slug: deploy-ec2-nginx-docker-webserver-using-terraform
+tags: aws, terraform, devops, cloud, automation, docker, nginx, ec2
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1649662225945/7f_c6UxhR.jpg?auto=compress
 domain: blog.dvsn.ai
 publishAs: dvsn

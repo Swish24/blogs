@@ -3,10 +3,8 @@ title: Deploy an EC2 Nginx Web Server on AWS using Terraform
 subtitle: Deploy an EC2 Nginx Web Server on AWS using Terraform
 slug: deploy-ec2-nginx-docker-webserver-using-terraform
 tags: aws, terraform, devops, cloud, automation, docker, nginx, ec2
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1649662225945/7f_c6UxhR.jpg?auto=compress
+cover: https://github.com/Swish24/Terraform-EC2/raw/main/images/TerraformEC2Banner.png
 domain: blog.dvsn.ai
-publishAs: dvsn
-hideFromHashnodecommunity: false
 ---
 
 Terraform is an open-source infrastructure as code tool that allows you to automate the provisioning and configuration of infrastructure resources on AWS, and other Cloud providers. It enables you to define your infrastructure as code and easily manage, version and share your infrastructure configurations on AWS.

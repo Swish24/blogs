@@ -55,7 +55,7 @@ cover:
 # Ex: true
 # - It's useful when you want to keep the post in your repo but don't
 #   want it to be picked up by Hashnode.
-ignorePost: true
+ignorePost: false
  
 # Publish on behalf of a team publication member
 # String | Optional | *WORKS WITH TEAM PUBLICATION ONLY*

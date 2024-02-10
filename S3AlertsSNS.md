@@ -2,7 +2,7 @@
 # Post Title
 # String | *REQUIRED*
 # Ex: Top 4 React UI Libraries for 2023
-title: 'Unlocking Automation: Delivering S3 Event Alerts to Discord or Slack Using Webhooks, Lambda, and Custom Endpoints'
+title: Unlocking Automation: Delivering S3 Event Alerts to Discord or Slack Using Webhooks, Lambda, and Custom Endpoints
  
 # Post Slug
 # What is slug? https://www.semrush.com/blog/what-is-a-url-slug
@@ -96,7 +96,7 @@ hideFromHashnodeCommunity: true
 # - This is equivalent to SEO TITLE option present in draft settings
 #   of a post in Hashnode editor.
 # - You can also update a post to update this later.
-seoTitle: 'Automated S3 Event Alerts: Delivering to Discord or Slack with Webhooks & Lambda'
+seoTitle: Automated S3 Event Alerts: Delivering to Discord or Slack with Webhooks & Lambda
  
 # SEO Description
 # String | Optional
@@ -104,7 +104,7 @@ seoTitle: 'Automated S3 Event Alerts: Delivering to Discord or Slack with Webhoo
 # - This is equivalent to SEO DESCRIPTION option present in 
 #   draft settings of a post in Hashnode editor.
 # - You can also update a post to update this later.
-seoDescription: 'Discover the power of automation as we guide you through setting up S3 event alerts seamlessly. Learn how to deliver alerts to Discord or Slack using webhooks, Lambda, and your own custom endpoints. Elevate your AWS S3 monitoring game with step-by-step instructions and insights into optimizing your workflow'
+seoDescription: Discover the power of automation as we guide you through setting up S3 event alerts seamlessly. Learn how to deliver alerts to Discord or Slack using webhooks, Lambda, and your own custom endpoints. Elevate your AWS S3 monitoring game with step-by-step instructions and insights into optimizing your workflow
  
 # Disable comments for a post
 # Boolean | Optional

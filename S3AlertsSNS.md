@@ -1,6 +1,6 @@
 ---
 title: Unlocking Automation: Delivering S3 Event Alerts to Discord or Slack Using Webhooks, Lambda, and Custom Endpoints
-slug: automated-S3-event-alerts
+# slug: automated-S3-event-alerts
 tags: cloudformation, python, lambda, aws, security
 domain: blog.dvsn.ai
 subtitle: Automated monitoring alerts for S3 to your custom endpoint

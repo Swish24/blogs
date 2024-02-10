@@ -47,7 +47,7 @@ subtitle: Automated monitoring alerts for S3 to your custom endpoint
 # Ex: https://cdn.hashnode.com/res/hashnode/image/upload/v1681132538878/itnaYF1h-.png
 # - To upload, Login to Hashnode and go to https://hashnode.com/uploader
 #   Use the URL that is generated after the upload.
-cover: 
+# cover: 
  
 # Should the post be ignored? When true it will not be picked up by Hashnode.
 # Boolean | Optional
@@ -66,7 +66,7 @@ ignorePost: false
 #   team publication in Hashnode editor.
 # - Fails if the user is not a member of the team publication or 
 #   if the publication is not a team publication
-publishAs: 
+# publishAs: 
  
 # Canonical URL of the post
 # String | Optional
@@ -76,7 +76,7 @@ publishAs:
 #   of a post in Hashnode editor.
 # - This is useful when you want to publish a post that is already
 #   published on another platform.
-canonical: 
+# canonical: 
  
  
 # Hide from Hashnode Community
@@ -113,7 +113,7 @@ seoDescription: 'Discover the power of automation as we guide you through settin
 # - This is equivalent to "DISABLE COMMENTS" option present in 
 #   draft settings of a post in Hashnode editor.
 # - You can also update a post to enable/disable this later.
-disableComments: 
+# disableComments: 
  
 # Slug of the series that you want your post to be a part of
 # String | Optional
@@ -124,7 +124,7 @@ disableComments:
 # - You can update the post again to correct it later.
 # - You can find series information from the series section in your publication dashboard. 
 #   You can also edit the series information from there.
-seriesSlug: 
+# seriesSlug: 
  
 # Table of contents
 # Boolean | Optional

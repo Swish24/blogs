@@ -47,7 +47,7 @@ subtitle: Automated monitoring alerts for S3 to your custom endpoint
 # Ex: https://cdn.hashnode.com/res/hashnode/image/upload/v1681132538878/itnaYF1h-.png
 # - To upload, Login to Hashnode and go to https://hashnode.com/uploader
 #   Use the URL that is generated after the upload.
-# cover: 
+cover: https://github.com/Swish24/Terraform-EC2/raw/main/images/TerraformEC2Banner.png
  
 # Should the post be ignored? When true it will not be picked up by Hashnode.
 # Boolean | Optional

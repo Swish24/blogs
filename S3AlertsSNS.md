@@ -61,7 +61,7 @@ ignorePost: false
 # String | Optional | *WORKS WITH TEAM PUBLICATION ONLY*
 # Ex: sandeep
 # - Does not have any effect in drafts. It will be ignored in drafts.
- But once you convert the draft to post, it will be respected
+# But once you convert the draft to post, it will be respected
 # - This resembles the Change of author from article settings of a 
 #   team publication in Hashnode editor.
 # - Fails if the user is not a member of the team publication or 

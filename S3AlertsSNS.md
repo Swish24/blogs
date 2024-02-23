@@ -150,4 +150,4 @@ Here we can see our lambda did execute, and logged "Discord", with no errors log
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708672902055/404bdf53-d44d-4b23-a75b-dfec73fe716f.png align="center")
 
-Lambda will continue to retry if there was a delivery failure or an unsuccessful return statement in your code. Be sure to return true/success within your lambda functions!
+Lambda will continue to retry if there was a delivery failure or an execution of your lambda. Be sure to return a successful response within your lambda functions!

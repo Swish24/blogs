@@ -1,10 +1,10 @@
 ---
-title: 'Unlocking Automation: Delivering S3 Event Alerts to Discord or Slack Using Webhooks, Lambda, and Custom Endpoints'
+title: 'Unlocking Automation: Delivering S3 Event Alerts to Discord or Slack Using AWS Lambda'
 slug: automated-S3-event-alerts
 tags: cloudformation, python, lambda, aws, AWS Certified Solutions Architect – Professional
 domain: blog.dvsn.ai
 subtitle: Automated monitoring alerts for S3 to your custom endpoint
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708675103742/eqrnbp4UX.png?auto=format
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708675373550/gsoJUDQP2.png?auto=format
 ignorePost: false
 hideFromHashnodeCommunity: false
 seoTitle: 'Automated S3 Event Alerts: Delivering to Discord or Slack with Webhooks & Lambda'
@@ -19,7 +19,7 @@ AWS SNS (Simple Notification Service) is typically used to deliver alerts such a
 
 But maybe, you wanted to deliver a notification to a webhook endpoint such as [Slack](https://api.slack.com/messaging/webhooks) or [`Discord`](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)? Maybe even your own custom endpoint.
 
-The resources used in this lab:
+The AWS Services used in this lab:
 
 * AWS S3
     
@@ -29,7 +29,7 @@ The resources used in this lab:
     
 * AWS Lambda
     
-
+## Code resources
 The link to the CloudFormation stack can be found here on Github:  
 [CloudFormation-Scripts/s3-sns-alerts-lambda at main · Swish24/CloudFormation-Scripts (github.com)](https://github.com/Swish24/CloudFormation-Scripts/tree/main/s3-sns-alerts-lambda)
 

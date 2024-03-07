@@ -10,7 +10,7 @@ hideFromHashnodeCommunity: false
 seoTitle: 'Automated S3 Event Alerts: Delivering to Discord or Slack with Webhooks & Lambda'
 seoDescription: 'Discover the power of automation as we guide you through setting up S3 event alerts seamlessly. Learn how to deliver alerts to Discord or Slack using webhooks, Lambda, and your own custom endpoints. Elevate your AWS S3 monitoring game with step-by-step instructions and insights into optimizing your workflow'
 enableToc: true
-saveAsDraft: true
+saveAsDraft: false
 ---
 
 While preparing for my AWS Solutions Architect Professional certificate, there was mention of event delivery using SNS topics.
@@ -41,7 +41,7 @@ Slack: [Sending messages using incoming webhooks | Slack](https://api.slack.com/
 
 Discord: [Intro to Webhooks – Discord](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
 
-# Deploying the CloudFormation Stack
+## Deploying the CloudFormation Stack
 
 CloudFormation is a method of Infrastructure as code, there are alternatives such as [AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html), which allows you to create AWS resources within your preferred programming language.
 
